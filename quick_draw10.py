@@ -1,4 +1,4 @@
-class_names = ['sailboat', 'finger', 'owl', 'dragon', 'stitches', 'washing_machine', 'bear', 'toaster', 'soccer_ball', 'snowflake', 'fence']
+class_names = ['sailboat', 'finger', 'owl', 'dragon', 'stitches', 'spreadsheet', 'bear', 'toaster', 'snowflake', 'fence']
 
 import urllib.request
 import os 
